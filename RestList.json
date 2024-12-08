@@ -1,0 +1,45 @@
+{
+    "restaurants": [
+      {
+        "rName": "Colada Shop",
+        "rRating": 4,
+        "rAddress": "244 19th Ct S #35, Arlington, VA 22202",
+        "rImage": "colada.jpg",
+        "rSignatureDish": "Cuban Sandwich",
+        "rWebSite": "https://www.coladashop.com/locations?y_source=1_MTA3NzkzMDk5Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+      },
+      {
+        "rName": "Tatte Bakery & Cafe",
+        "rRating": 5,
+        "rAddress": "2805 Clarendon Blvd, Arlington, VA 22201",
+        "rImage": "tatte.jpg",
+        "rSignatureDish": "Baked Goods",
+        "rWebSite": "https://tattebakery.com/menus/"
+      },
+      {
+        "rName": "Chipotle Mexican Grill",
+        "rRating": 3,
+        "rAddress": "158 National Plaza B1-4/B1-5, Oxon Hill, MD 20745",
+        "rImage": "chipotle.jpg",
+        "rSignatureDish": "Bowl",
+        "rWebSite": "https://www.coladashop.com/locations?y_source=1_MTA3NzkzMDk5Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+      },
+      {
+        "rName": "Taco Bamba",
+        "rRating": 4,
+        "rAddress": "4000 Wilson Blvd Suite C, Arlington, VA 22203",
+        "rImage": "Taco Bamba.jpg",
+        "rSignatureDish": "Tacos",
+        "rWebSite": "https://www.tacobamba.com/"
+      },
+      {
+        "rName": "Jula's on the Potomac",
+        "rRating": 4,
+        "rAddress": "44 Canal Center Plaza #401, Alexandria, VA 22314",
+        "rImage": "julas.png",
+        "rSignatureDish": "Pizza",
+        "rWebSite": "https://julasotp.com/"
+      }
+    ]
+  }
+  
